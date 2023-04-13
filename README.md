@@ -10,7 +10,7 @@ This is a Python script that uses the `imaplib` and `email` modules to download 
 
 ## Setup
 
-1. Install the required modules by running `pip install imaplib email` in your terminal.
+1. Install the required modules .
 2. Open the script in a text editor and set the `MAIL_ADDRESS`, `MAIL_PASSWORD`, and `imap_server` variables to the appropriate values for your email account.
 3. Set the `mailList` variable to a dictionary where the keys are folder names and the values are lists of email addresses. Emails from addresses in these lists will have their attachments downloaded to the corresponding folder.
 
